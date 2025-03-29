@@ -49,6 +49,9 @@ O público-alvo do aplicativo inclui:
     <li><strong>Compatibilidade:</strong> O aplicativo deve ser desenvolvido preferencialmente para múltiplas plataformas (Android, iOS e/ou Web).</li>
 </ul>
 
+<h1>Matriz de Requisitos</h1>
+<img src="https://github.com/user-attachments/assets/c725f0bd-7967-4da4-8f18-b147e27f765a">
+
 <h1>Modelagem do Banco de Dados</h1>
 <img src="https://github.com/user-attachments/assets/3f582bce-081c-4353-a3a8-da791ca82ad2" width=50% height=50%>
 
@@ -116,10 +119,10 @@ O público-alvo do aplicativo inclui:
 <img src="https://github.com/user-attachments/assets/c1bed530-0eb2-4bda-b4bd-1574b944d66e" width=50% height=50%>
 
 <h2>Diagrama de Objetos</h2>
-<img src="https://github.com/user-attachments/assets/a050fb79-65be-4779-bcbb-5568090fc034" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/a050fb79-65be-4779-bcbb-5568090fc034" width=80% height=80%>
 
 <h2>Diagrama de Componentes</h2>
-<img src="https://github.com/user-attachments/assets/c3d824ee-30e0-4d60-a85c-41cf5ee623d8" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/c3d824ee-30e0-4d60-a85c-41cf5ee623d8" width=40% height=40%>
 
 <h2>Diagrama de Caso de Uso</h2>
 <img src="https://github.com/user-attachments/assets/454fa404-17c7-4c6e-a87d-e1786c0370ef" width=50% height=50%>
@@ -131,4 +134,4 @@ O público-alvo do aplicativo inclui:
 <img src="https://github.com/user-attachments/assets/f12a2bbc-fa32-484f-a2fe-4aa25294700d" width=50% height=50%>
 
 <h1>Tecnologias Empregadas</h1>
-<img src="https://github.com/user-attachments/assets/a176618e-65a7-4b22-b43d-0afd7546b01d" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/a176618e-65a7-4b22-b43d-0afd7546b01d" width=80% height=80%>
